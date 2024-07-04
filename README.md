@@ -1,5 +1,3 @@
-
-
 # Simple Keylogger
 
 This Python script implements a basic keylogger that records and logs keystrokes. It captures keys pressed by the user and saves them to a specified file (`keylog.txt` by default). It is essential to handle ethical considerations and permissions responsibly when working with keyloggers.
@@ -76,6 +74,5 @@ This project was created with the support of [Prodigy InfoTech].
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 # PRODIGY_CS_04
